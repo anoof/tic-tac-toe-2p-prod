@@ -1,2 +1,2 @@
 # tic-tac-toe-2p
-Using react
+Using react hooks
